@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 04 Feb 2023 15:45:31 at http://sbtechnosoft.com/foundation/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://sbtechnosoft.com/foundation/ -O1 "C:\Users\Awaab\Documents\clones\toyin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:52:07	Warning: 	Retry after error -4 (Incorrect length (160946 Bytes, 434863 expected)) at link sbtechnosoft.com/foundation/images/banner1.jpg (from sbtechnosoft.com/foundation/)
+15:52:09	Warning: 	Retry after error -4 (Incorrect length (216336 Bytes, 479970 expected)) at link sbtechnosoft.com/foundation/images/banner2.jpg (from sbtechnosoft.com/foundation/)
+15:52:09	Error: 	"Not Found" (404) at link sbtechnosoft.com/foundation/assets/owl-carousel/css/owl.video.play.png (from sbtechnosoft.com/foundation/assets/owl-carousel/css/owl.carousel.css)
+15:52:09	Warning: 	Retry after error -4 (Incorrect length (1151761 Bytes, 1414950 expected)) at link sbtechnosoft.com/foundation/images/counters-bg.jpg (from sbtechnosoft.com/foundation/css/style.css)
+15:52:52	Warning: 	Retry after error -4 (Incorrect length (78052 Bytes, 374776 expected)) at link sbtechnosoft.com/foundation/images/about-img1.png (from sbtechnosoft.com/foundation/about-us.html)
+15:52:52	Warning: 	Retry after error -4 (Incorrect length (290474 Bytes, 445031 expected)) at link sbtechnosoft.com/foundation/images/about-img2.png (from sbtechnosoft.com/foundation/about-us.html)
+15:52:52	Error: 	"Not Found" (404) at link sbtechnosoft.com/foundation/images/service-detail-big.jpg (from sbtechnosoft.com/foundation/service-details.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 50 seconds : 110 links scanned, 102 files written (12151019 bytes overall) [12006509 bytes received at 25545 bytes/sec], 221375 bytes transferred using HTTP compression in 14 files, ratio 21%, 2.2 requests per connection
+(2 errors, 5 warnings, 0 messages)
